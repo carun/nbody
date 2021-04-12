@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Arun Chandrasekaran <aruncxy@gmail.com"
+	],
+	"copyright": "Copyright © 2021, 217216X715132",
+	"description": "N-body simulation application.",
+	"license": "proprietary",
+	"name": "nbody"
+}
